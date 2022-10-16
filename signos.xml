@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signos>
+    <titulo>Arquivo de signos</titulo>
+    <signo>
+        <cod_signo>001</cod_signo>
+        <data_signo_ini>03-21</data_signo_ini>
+        <data_signo_fim>04-20</data_signo_fim>
+        <nome_signo>Áries</nome_signo>
+        <horoscopo>
+            A família está passando por um novo ciclo e o setor financeiro é o mais afetado. 
+			É preciso entender as complexidades emocionais do passado, que podem bloquear o seu desenvolvimento. 
+			Ariano, é preciso dar novos passos e inovar
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>002</cod_signo>
+        <data_signo_ini>04-21</data_signo_ini>
+        <data_signo_fim>05-20</data_signo_fim>
+        <nome_signo>Touro</nome_signo>
+        <horoscopo>
+            A chave para que o novo entre em sua vida começa a partir de uma nova forma de pensar. 
+			É preciso ser você mesmo neste novo ciclo, porque experiências do passado trouxeram autoanulação. 
+			Mudar neste momento é aprender a ser você mesmo e não se esconder mais
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>003</cod_signo>
+        <data_signo_ini>05-21</data_signo_ini>
+        <data_signo_fim>06-20</data_signo_fim>
+        <nome_signo>Gêmeos</nome_signo>
+        <horoscopo>
+            Uma nova fase financeira desponta e muitos medos ou carmas vêm sendo dissolvidos.
+			É um bom ciclo para prosperar. Mas existem projetos que ainda não saíram do papel, 
+			e o motivo é que você precisa estar mais alinhado com a sua identidade. Analise e reflita sobre tudo isso.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>004</cod_signo>
+        <data_signo_ini>06-21</data_signo_ini>
+        <data_signo_fim>07-20</data_signo_fim>
+        <nome_signo>Câncer</nome_signo>
+        <horoscopo>
+            Você vem passando por um ciclo inovador. É um bom momento para se adaptar e experimentar novas possibilidades. 
+			O seu futuro está sendo reformulado e, concomitantemente, existem curas de traumas do passado. Amplie as suas percepções.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>005</cod_signo>
+        <data_signo_ini>07-21</data_signo_ini>
+        <data_signo_fim>08-20</data_signo_fim>
+        <nome_signo>Leão</nome_signo>
+        <horoscopo>
+            Você mudou a sua percepção em relação à sua família ou de pessoas muito próximas. Tudo isso traz reflexões profundas 
+			e deixa explícitos possíveis medos e prisões emocionais. Leonino, tudo isso faz parte das mudanças pelas quais você vem passando e, 
+			dessa forma, as crenças estão sendo mexidas.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>006</cod_signo>
+        <data_signo_ini>08-21</data_signo_ini>
+        <data_signo_fim>09-20</data_signo_fim>
+        <nome_signo>Virgem</nome_signo>
+        <horoscopo>
+            Os projetos estão em pleno desenvolvimento e tudo é novo. É um bom ciclo para empreender! Vejo novos amigos, novas ideias — e tudo isso é positivo. 
+			Virginiano, é preciso aprender a soltar e desapegar de pessoas e situações que não permanecerão.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>007</cod_signo>
+        <data_signo_ini>09-21</data_signo_ini>
+        <data_signo_fim>10-20</data_signo_fim>
+        <nome_signo>Libra</nome_signo>
+        <horoscopo>
+            A carreira e os planos futuros passam por renovações. É preciso dar passos novos e ousados. O céu lhe dá a oportunidade de mudar e 
+			desapegar de tudo que possivelmente está oprimindo a sua missão. 
+			Uma pessoa do seu passado não consegue acompanhar a sua evolução: pense sobre isso.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>008</cod_signo>
+        <data_signo_ini>10-21</data_signo_ini>
+        <data_signo_fim>11-20</data_signo_fim>
+        <nome_signo>Escorpião</nome_signo>
+        <horoscopo>
+            Uma nova forma de ver a vida afeta consideravelmente o relacionamento. O céu fala de uma pessoa nova que entra em sua jornada, ampliando o seu campo de visão. 
+			É preciso curar traumas que derivam de uma visão unilateral. Renove a sua rotina e solte todas as amarras.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>009</cod_signo>
+        <data_signo_ini>11-21</data_signo_ini>
+        <data_signo_fim>12-20</data_signo_fim>
+        <nome_signo>Sagitário</nome_signo>
+        <horoscopo>
+            É preciso soltar e desapegar de uma rotina ultrapassada. O céu fala da necessidade de investir em um novo ramo ou, se tiver funcionários, 
+			renovações serão necessárias. 
+			Esse processo novo também pede para curar traumas de infância que mexem com a autoestima.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>010</cod_signo>
+        <data_signo_ini>12-21</data_signo_ini>
+        <data_signo_fim>01-20</data_signo_fim>
+        <nome_signo>Capricórnio</nome_signo>
+        <horoscopo>
+            O relacionamento passa por um novo ciclo ou uma nova pessoa entra em sua vida. 
+			Capricorniano, a porta do seu coração está aberta? Tenha atenção, 
+			porque traumas do passado estão sendo remexidos e chegou a hora de curar. 
+			Manter-se fechado é bloquear o seu progresso.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>011</cod_signo>
+        <data_signo_ini>01-21</data_signo_ini>
+        <data_signo_fim>02-20</data_signo_fim>
+        <nome_signo>Aquário</nome_signo>
+        <horoscopo>
+            Esteja aberto a novas oportunidades de trabalho. Um trabalho num formato home office ou um trabalho que lhe traga mais autonomia é o melhor 
+			neste seu novo ciclo. Aquariano, o céu recomenda que você mude a forma como enxerga as coisas.
+        </horoscopo>
+    </signo>
+    <signo>
+        <cod_signo>012</cod_signo>
+        <data_signo_ini>02-21</data_signo_ini>
+        <data_signo_fim>03-20</data_signo_fim>
+        <nome_signo>Peixes</nome_signo>
+        <horoscopo>
+            Um novo ciclo traz um amor ou uma nova forma de vivenciar e expressar os sentimentos. 
+			O mesmo pode ser refletido na experiência com filho(s). 
+			É tudo tão novo que requer habilidades emocionais para se adaptar a tudo o que chega. 
+			O céu traz curas na forma de administrar investimentos.
+        </horoscopo>
+    </signo>
+</signos>
